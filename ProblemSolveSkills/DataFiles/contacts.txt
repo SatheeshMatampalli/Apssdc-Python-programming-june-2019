@@ -1,4 +1,3 @@
 vinod,9701550994 ,vinod@gmail.com
-Kumar,6901622237,muni@gmail.com
-123,9704012649 ,muni@gmail.com
-sindhuja,8886265593,sindhu123@gmail.com
+ravi,9985612519,vinod1@gmail.com
+satheesh,9676047715,m@gmail.com

@@ -1,0 +1,15 @@
+90  98 | 94 Distiction 
+88  90 | 89 Distiction 
+98  92 | 95 Distiction 
+18  71 | 44 PASS 
+81  50 | 65 PASS 
+27  51 | 39 PASS 
+58  27 | 42 PASS 
+29  74 | 51 PASS 
+20  100 | 60 PASS 
+23  79 | 51 PASS 
+____________ 
+53  73
+Distintion :30.0%
+Pass :100.0%
+Fail :0.0%
